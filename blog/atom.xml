@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ThanhNguyenVu.github.io/tech-portfolio/blog</id>
+    <title>Zoey Nguyen Vu Blog</title>
+    <updated>2020-10-02T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ThanhNguyenVu.github.io/tech-portfolio/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Zoey Nguyen Vu news and events.</subtitle>
+    <logo>https://ThanhNguyenVu.github.io/tech-portfolio/undefined</logo>
+    <rights>Copyright © 2020 Your Name Here</rights>
+    <entry>
+        <title type="html"><![CDATA[vGHC 2020]]></title>
+        <id>https://ThanhNguyenVu.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</id>
+        <link href="https://ThanhNguyenVu.github.io/tech-portfolio/blog/2020/10/02/blog-post.html"/>
+        <updated>2020-10-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>I learned how to create my technical portfolio at Grace Hopper Celebration 2020!</p> ]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+</feed>
