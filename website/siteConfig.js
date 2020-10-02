@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
+        linkedin: 'nguyenvu00',
         twitter: '',
-        github: '',
+        github: 'ThanhNguyenVu',
         facebook: 'https://www.facebook.com/',
     },
 
